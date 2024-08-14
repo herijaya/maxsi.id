@@ -6,6 +6,8 @@ Gblog is a blog template designed for those who are unable or unwilling to write
 
 **[View Live Demo](https://godruoyi.com)**
 
+**[My Build Result](https://maxsi.id)**
+
 ## Features
 
 - 🐈 Simple And Beautiful
