@@ -4,7 +4,7 @@
 
 Gblog is a blog template designed for those who are unable or unwilling to write frontend code. All you need to do is find an interesting Tailwind CSS template from elsewhere and paste it into Gblog, and it will function seamlessly. Additionally, you can customize your own blog without to write any JavaScript code.
 
-**[View Live Demo](https://godruoyi.com)**
+**[View Source Live Demo](https://godruoyi.com)**
 
 **[My Build Result](https://maxsi.id)**
 
